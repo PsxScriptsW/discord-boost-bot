@@ -1,14 +1,14 @@
 {
-    "token": "",
-    "owner": "",
-    "guild_id": "",
+    "token": "MTExMzg1ODgwMDE0ODAyNTM3NQ.GJQiVX.n5Uyshd4E0CVPO22NHPIE8O_ez2s4ys4jY2avs",
+    "owner": "1111780816280887377",
+    "guild_id": "1112057345615335496",
     "capmonster_key": "",
     "server_nick": ".gg/demonboost",
     "change_server_nick": true,
     "proxyless": true,
     "field_name_invite": "Invite",
-    "order_logs": "",
-    "failed_boosts": "",
-    "boosts_logs": "",
+    "order_logs": "https://discord.com/api/webhooks/1113886174696701963/GnApfYQFzCutA4zvPA5Tc58j7XRMgpFsPq-jGhOFmw_HEpCANP-2h6J_VObic2MzxcjX",
+    "failed_boosts": "https://discord.com/api/webhooks/1113886308763435119/3RNwBKx3SnakzOuTf_Cx-H3XtTWyl6L5D6q9omKr_iRQAvuDicmtkKcLemgJXhZpJR0l",
+    "boosts_logs": "https://discord.com/api/webhooks/1113886174696701963/GnApfYQFzCutA4zvPA5Tc58j7XRMgpFsPq-jGhOFmw_HEpCANP-2h6J_VObic2MzxcjX",
     "activity": "Boosting Servers"
 }
