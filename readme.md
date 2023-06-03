@@ -1,4 +1,4 @@
-People be selling this edit shit for $75+ so have it for free
+People be selling this edit for $75+ so have it for free
 
 ISUSES
 
