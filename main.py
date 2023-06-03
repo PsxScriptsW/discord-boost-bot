@@ -35,7 +35,7 @@ activity1 = config['activity']
 
 activity = discord.Activity(type=discord.ActivityType.playing, name=f"{activity1}")
 
-bot = discord.Bot(command_prefix="*", activity=activity, status=discord.Status.online)
+bot = discord.Client(command_prefix="*", activity=activity, status=discord.Status.online)
 cls()
 print(Fore.WHITE + """  
             ██████  ███████ ███    ███  ██████  ███    ██       ██████   ██████   ██████  ███████ ████████ 
